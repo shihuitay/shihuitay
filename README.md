@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shihuitay
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Python, R and SQL
-- 📚 I'm pursuing Master of Data Science
+- 👀 Data Science and Data Analytics
+- 🌱 Python, R and SQL
+- 📚 Master of Data Science
 - 📫 Reach me on LinkedIn:  https://www.linkedin.com/in/shihuitay/
 
 <!---
