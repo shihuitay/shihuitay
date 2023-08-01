@@ -1,9 +1,9 @@
-👋 Hi, I'm @shihuitay, a Data Science and Analytics professional with expertise in Python and Computer Vision.
-🎓 Master of Data Science  
-📈 Passionate about extracting insights from data, especially images and videos.
-📊 Skilled in statistical analysis, machine learning, deep learning and data visualization.
-📚 Lifelong learner, always exploring new data-driven challenges.
-
+👋 Hi, I'm @shihuitay, a Data Science and Analytics professional with expertise in Python and Computer Vision.<br />
+🎓 Master of Data Science  <br />
+📈 Passionate about extracting insights from data, especially images and videos.<br />
+📊 Skilled in statistical analysis, machine learning, deep learning and data visualization.<br />
+📚 Lifelong learner, always exploring new data-driven challenges.<br />
+<br />
 📫 Let's connect on LinkedIn: https://www.linkedin.com/in/shihuitay/
 
 
