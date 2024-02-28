@@ -9,7 +9,7 @@
 - 🔍 Always eager to delve into challenging projects that leverage computer vision for real-world applications.
 
 ## Connect with Me
-Feel free to reach out for collaborations or just a chat about data science and AI innovations!
+Feel free to reach out for collaborations or just a chat about data science!
 <br />
 📫 LinkedIn: https://www.linkedin.com/in/shihuitay/
 
