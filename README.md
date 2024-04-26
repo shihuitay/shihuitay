@@ -5,7 +5,6 @@
 - 💻 Proficient in Python and R, with a strong focus on Computer Vision applications.
 - 🤖 I have a keen interest in extracting meaningful information from unstructured data.
 - 👁️‍🗨️ My fascination lies in the realm of Computer Vision, where I love exploring how AI can interpret and understand visual data from the world around us.
-- 🔍 Always eager to delve into challenging projects that leverage computer vision for real-world applications.
 
 ## Connect with Me
 Feel free to reach out for collaborations or just a chat about data science!
