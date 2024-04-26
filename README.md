@@ -3,8 +3,7 @@
 ## About Me
 - 🎓 I'm a Data Scientist/Researcher with a Master's degree in Data Science.
 - 💻 Proficient in Python and R, with a strong focus on Computer Vision applications.
-- 📊 Skilled in statistical analysis, machine learning, deep learning, and data visualization.
-- 🤖 I have a keen interest in AI, particularly in extracting meaningful information from unstructured data.
+- 🤖 I have a keen interest in extracting meaningful information from unstructured data.
 - 👁️‍🗨️ My fascination lies in the realm of Computer Vision, where I love exploring how AI can interpret and understand visual data from the world around us.
 - 🔍 Always eager to delve into challenging projects that leverage computer vision for real-world applications.
 
